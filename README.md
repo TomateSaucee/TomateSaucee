@@ -4,6 +4,4 @@
   <p align="center">
   <p align="center">
   <p align="center">  <a href="https://squidooio.straw.page">strawpage</a>
-<p align="center">  <a href="https://squiddoo.atabook.org/">ata</a>
- <p align="center">
    ⠀⠀ 
